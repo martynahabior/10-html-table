@@ -1,0 +1,15 @@
+table
+{
+    border: 2px double black;
+    border-collapse: separate;
+    border-style: outset;
+    margin-top: 20%;
+}
+
+th, td
+{
+    border: 2px double black;
+    border-collapse: separate;
+    border-style: inset;
+    margin-top: 20%;
+}
